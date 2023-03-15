@@ -1,28 +1,35 @@
-## 💜 Olá, meu nome é <strong>{Davi Liporace}!</strong>
+💜 Olá, eu sou o Davi Liporace!
 
-> Vim da área de administração financeira e agora sou programador Full Stack.
+Eu sou um programador Full Stack com formação anterior em administração financeira. Atualmente estou fazendo o Bootcamp da Driven, onde estou desenvolvendo projetos e aprimorando minhas habilidades em programação.
 
-🔭 Atualmente fazendo o Bootcamp da Driven, onde desenvolvo os projetos que posto aqui..
+# <p align="center"> 🚀 Minhas habilidades:</p>
 
-----
+## Front End
+- HTML5
+- CSS
+- JavaScript
+- React
 
-## 🚀 Minhas Skills
+## Back End
+- Node.js
+- Express.js
+- PostgreSQL
+- MongoDB
+- Docker
+- Typescript
+- Prisma
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+## Outras Tecnologias
+- Git
+- Linux
+- AWS
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+💻 Eu compartilho meus projetos no meu perfil do GitHub.
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express"/></code>
+📊 Abaixo estão algumas informações sobre minha conta GitHub.
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davi-liporace&show_icons=true)
 
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davi-liporace&show_icons=true)<br/>
 [![davi-liporace](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-liporace&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+### <p align="center">  Se você gostou do que viu aqui e gostaria de saber mais sobre mim ou sobre algum projeto que eu esteja trabalhando, sinta-se à vontade para entrar em contato. Obrigado pela visita! </p>
