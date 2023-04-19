@@ -9,6 +9,8 @@ Eu sou um programador Full Stack com formação anterior em administração fina
 - CSS
 - JavaScript
 - React
+- Typescript
+- Jest
 
 ## Back End
 - Node.js
@@ -18,6 +20,7 @@ Eu sou um programador Full Stack com formação anterior em administração fina
 - Docker
 - Typescript
 - Prisma
+- .NET
 
 ## Outras Tecnologias
 - Git
