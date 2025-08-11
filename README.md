@@ -1,6 +1,6 @@
  Olá, eu sou o Davi Liporace!
 
-Eu sou um programador Full Stack com formação anterior em administração financeira. Atualmente trabalho como autônomo, onde estou desenvolvendo projetos e aprimorando minhas habilidades em programação.
+Eu sou um programador Full Stack com formação anterior em administração financeira. 
 
 # <p align="center"> Minhas habilidades:</p>
 
